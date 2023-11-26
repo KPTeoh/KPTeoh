@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on my MSc dissertation **project "Automatic Number Plate Recognition with YOLO detection"**
+- 🔭 I’m currently working on my side **project "A Postit Blog"**
 
-- 🌱 I’m currently learning **RestAPI, MongoDB, AWS 📘**
+- 🌱 I’m currently learning **Nextjs 📘**
 
 - 📫 How to reach me **kpteoh509@gmail.com**
 
