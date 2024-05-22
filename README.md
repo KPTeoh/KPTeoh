@@ -9,7 +9,7 @@ src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b706
 
 - 🔭 I’m currently working on my side **project "WebTeem"**
 
-- 🌱 I’m currently learning **Nextjs 📘**
+- 🌱 I’m currently learning **Nextjs, Nodejs 📘**
 
 - 📫 How to reach me **kpteoh509@gmail.com**
 
