@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on my side **Portfolio"**
+- 🔭 I’m currently working on my side project **Real-Estate Application"**
 
 - 🌱 I’m currently learning **Nextjs, Nodejs, React 📘**
 
