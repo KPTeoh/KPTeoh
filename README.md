@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm KP</h1>
-<h3 align="center">I am a MSc Computing graduand with 2 years of Web Development experience.</h3>
+<h3 align="center">I hold Masters Degree in Computer Science and I have 2 years of Web Development experience.</h3>
 
 
 
