@@ -2,15 +2,15 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm KP</h1>
-<h3 align="center">I hold Masters Degree in Computer Science and I have 2 years of Web Development experience.</h3>
+<h3 align="center">I hold Masters Degree in Computer Science and I have 3 years of Web Development experience.</h3>
 
 
 
-- 🔭 I’m currently working on my side project **Real-Estate Application"**
+- 🔭 I’m currently working on my side project **Full Stack Ecommerce Platform"**
 
 - 🌱 I’m currently learning **Nextjs, Nodejs, React 📘**
 
-- 📫 How to reach me **kpteoh509@gmail.com**
+- 📫 How to reach me **khaipongteoh@gmail.com**
 
 - ⚡ Fun fact **I love going to the gym and playing video games**
 
