@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Khai</h1>
-<h3 align="center">I hold Masters Degree in Computer Science and I have 3 years of Web Development experience.</h3>
+<h3 align="center">I hold Masters Degree in Computer Science and I am passionate in Web Development.</h3>
 
 
 
